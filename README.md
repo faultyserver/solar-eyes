@@ -8,6 +8,8 @@ Additionally, it aims to visually resolve some inconsistencies in the syntax def
 
 This color scheme has mostly come from working with [Elixir](https://elixir-lang.org), [Ruby](https://ruby-lang.org), [Crystal](https://crystal-lang.org), and from my development of [Myst](https://github.com/myst-lang/myst). It is an evolving project that has only recently started, so expect some inconsistencies for a while. Changes probably won't be common, but may be large and "breaking" when they do happen. I'll try to tag releases whenever things settle down for a while.
 
+Sadly, a good portion of the nice features of this color scheme (grayed-out underscore variable names, bold block parameters, etc.) will _not_ work with most languages, because their syntax definitions do not distinguish them enough to accurately highlight them. Help make these features work more universally by submitting issues and fixes to those repositories!
+
 # Installation
 
 This package has not been published to the main Package Control channel. To install it, add the repository to Package Control (see the "Add Repository" section at https://packagecontrol.io/docs/usage) with the url https://github.com/faultyserver/solar-eyes.
