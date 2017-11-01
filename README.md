@@ -4,6 +4,8 @@ SolarEyes is a terrible name for a color scheme based mostly on the ever-popular
 
 Additionally, it aims to visually resolve some inconsistencies in the syntax definitions for similar languages (e.g. Elixir vs. Ruby, Ruby vs. Crystal).
 
+![SolarEyes color scheme sample](/res/sample.png?raw=true "SolarEyes Color Scheme Sample")
+
 This color scheme has mostly come from working with [Elixir](https://elixir-lang.org), [Ruby](https://ruby-lang.org), [Crystal](https://crystal-lang.org), and from my development of [Myst](https://github.com/myst-lang/myst). It is an evolving project that has only recently started, so expect some inconsistencies for a while. Changes probably won't be common, but may be large and "breaking" when they do happen. I'll try to tag releases whenever things settle down for a while.
 
 # Installation
