@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
   <key>name</key>
-  <string>Solarized (light)</string>
+  <string>SolarEyes</string>
   <key>settings</key>
   <array>
 
@@ -1335,6 +1335,18 @@
       <string>Block parameters</string>
       <key>scope</key>
       <string>variable.parameter.function.block</string>
+      <key>settings</key>
+      <dict>
+        <key>fontStyle</key>
+        <string>bold</string>
+      </dict>
+    </dict>
+
+    <dict>
+      <key>name</key>
+      <string>Exception Handling</string>
+      <key>scope</key>
+      <string>keyword.control.exceptions</string>
       <key>settings</key>
       <dict>
         <key>fontStyle</key>
