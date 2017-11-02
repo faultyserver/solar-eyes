@@ -27,11 +27,18 @@
         <string>#eee8d5</string>
         <key>selectionBorder</key>
         <string>#c0c4bb</string>
+        <key>guide</key>
+        <string>#eee8d5</string>
+        <key>activeGuide</key>
+        <string>#657b83</string>
+        <key>stackGuide</key>
+        <string>#c0c4bb</string>
         <!-- Default looks best really -->
         <!-- <key>findHighlight</key> -->
         <!-- <string>#dddd45</string> -->
         <!-- <key>findHighlightForeground</key> -->
         <!-- <string>#fdf6e3</string> -->
+
 
         <key>popupCss</key>
         <string><![CDATA[
@@ -1341,4 +1348,3 @@
   <string>ca238b9c-28f7-42d4-9670-bd0829ef864e</string>
 </dict>
 </plist>
-
