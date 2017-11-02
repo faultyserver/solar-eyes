@@ -136,7 +136,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#6c71c4</string>
+        <string>#9279d2</string>
       </dict>
     </dict>
     <dict>
@@ -1351,6 +1351,18 @@
       <dict>
         <key>fontStyle</key>
         <string>bold</string>
+      </dict>
+    </dict>
+
+    <dict>
+      <key>name</key>
+      <string>Exception Handling</string>
+      <key>scope</key>
+      <string>variable.language</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#d65c97</string>
       </dict>
     </dict>
 
