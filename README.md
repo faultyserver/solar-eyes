@@ -1,6 +1,6 @@
 # SolarEyes Color Scheme
 
-SolarEyes is a terrible name for a color scheme based mostly on the ever-popular [Solarized theme](http://ethanschoonover.com/solarized) (the light version), but with some modifications for higher contrast in some languages.
+SolarEyes is a terrible name for a color scheme based mostly on the ever-popular [Solarized theme](http://ethanschoonover.com/solarized) (the light version), but with some modifications for higher contrast in some languages. Most of the original color scheme definition is taken from [braver's Solarized Color Scheme](https://github.com/braver/Solarized), but will likely be overwritten as time goes on and preferences differ.
 
 Additionally, it aims to visually resolve some inconsistencies in the syntax definitions for similar languages (e.g. Elixir vs. Ruby, Ruby vs. Crystal).
 
