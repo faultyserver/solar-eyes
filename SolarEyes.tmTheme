@@ -215,7 +215,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#859900</string>
+        <string>#b58900</string>
       </dict>
     </dict>
     <dict>
@@ -1365,6 +1365,23 @@
         <string>#d65c97</string>
       </dict>
     </dict>
+
+
+    <dict>
+      <key>name</key>
+      <string>String interpolation punctuation</string>
+      <key>scope</key>
+      <string>punctuation.section.embedded</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#d65c97</string>
+        <key>fontStyle</key>
+        <string>bold</string>
+      </dict>
+    </dict>
+
+
 
 
   </array>
