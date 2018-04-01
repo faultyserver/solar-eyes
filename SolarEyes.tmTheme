@@ -1314,7 +1314,7 @@
 
     <dict>
       <key>name</key>
-      <string>Exception Handling</string>
+      <string>Langauge variables</string>
       <key>scope</key>
       <string>variable.language</string>
       <key>settings</key>
@@ -1330,6 +1330,21 @@
       <string>String interpolation punctuation</string>
       <key>scope</key>
       <string>punctuation.section.embedded</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#d65c97</string>
+        <key>fontStyle</key>
+        <string>bold</string>
+      </dict>
+    </dict>
+
+
+    <dict>
+      <key>name</key>
+      <string>Shell special variables ($@, $*, etc.)</string>
+      <key>scope</key>
+      <string>variable.other.special.shell, variable.other.special.shell punctuation.definition.variable.shell</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
