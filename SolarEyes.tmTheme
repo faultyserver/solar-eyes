@@ -1324,7 +1324,6 @@
       </dict>
     </dict>
 
-
     <dict>
       <key>name</key>
       <string>String interpolation punctuation</string>
@@ -1339,7 +1338,6 @@
       </dict>
     </dict>
 
-
     <dict>
       <key>name</key>
       <string>Shell special variables ($@, $*, etc.)</string>
@@ -1351,6 +1349,18 @@
         <string>#d65c97</string>
         <key>fontStyle</key>
         <string>bold</string>
+      </dict>
+    </dict>
+
+    <dict>
+      <key>name</key>
+      <string>Markup code blocks</string>
+      <key>scope</key>
+      <string>markup.raw</string>
+      <key>settings</key>
+      <dict>
+        <key>background</key>
+        <string>#3f3d380b</string>
       </dict>
     </dict>
 
